@@ -5,3 +5,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/seragg1/Serag-site.git
 git push -u origin main
+run.dev @ seraggl1/serag-site
